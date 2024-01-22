@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+ #table-container{
+    border: 1px solid black;
+    width :100%;
+    background-color: green;
+
+} 
